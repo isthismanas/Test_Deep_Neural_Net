@@ -10,4 +10,4 @@ I wont be going into network optimization or hyperparameter tuning in this one .
 layers of neurons and to visualize how the non linearity brough by the various activations in different hidden layers can effectively fit the data of the   
 given problem .  
 The goal here is to learn the basic behaviour of perceptrons and figure out a way to optimize them.  
-Follow up on this project will be a complex neural net with gpu accelerated vector computation and use of optimizers . 
+Follow up on this project will be a complex neural net with gpu accelerated vector computation and use of optimizers. 
